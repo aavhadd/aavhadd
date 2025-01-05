@@ -1,8 +1,5 @@
 
 
-<!--
-**aavhadd/aavhadd** is a ✨ _special_ ✨ reposWelcome to my GitHub profile! Here's a bit about me:
-
 👨‍💻 About Me
 I'm a passionate Data Engineer and Data  Analyst with expertise in building end-to-end data pipelines, scalable solutions, and interactive dashboards. I enjoy transforming raw data into actionable insights that drive impactful decisions.
 
