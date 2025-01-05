@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**aavhadd/aavhadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aavhadd/aavhadd** is a ✨ _special_ ✨ reposWelcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+I'm a passionate Data Engineer and Data  Analyst with expertise in building end-to-end data pipelines, scalable solutions, and interactive dashboards. I enjoy transforming raw data into actionable insights that drive impactful decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills
+•	Programming Languages: R, Python
+•	Databases and Big Data: SQL Server (2008–2019), PostgreSQL, Hadoop, AWS, Snowflake, Databricks, Airflow, PySpark
+•	Data Analysis & Visualization: MS Excel, Tableau, Power BI, R Studio
+•	Machine Learning Algorithms: Decision Tree, Random Forest, Support Vector Machine, K-Means Clustering, Linear Regression,
+Logistic Regression
+•	Data Management and Optimization: Monitoring & Performance: (SCOM, Nagios, Query Tuning, Indexing), Ticketing Tool: (ServiceNow), Cloud Platform: AWS (RDS, EC2), Microsoft Azure (Azure SQL Database), High Availability: Availability Groups, Clustering, Backup and Restoration: Avamar, Commvault.
+
+
+📫 Let's Connect!
+Email: aavhad@syr.edu
+LinkedIn: linkedin.com/in/akshay-avhad
+GitHub: github.com/aavhad
+
